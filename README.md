@@ -1,7 +1,7 @@
 ## Hi there! I'm Pablo Mesny 👋
 Front End Developer
 
-![Pablo_Mesny_Banner](https://user-images.githubusercontent.com/110203116/217897814-682226a5-faa6-4287-b222-364475f3b1be.png)
+![Pablo_Mesny](https://user-images.githubusercontent.com/110203116/217905825-39e610f1-fed2-4359-b7c6-3ee906e056df.png)
 
 
 #### Core Qualifications:
