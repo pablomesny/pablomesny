@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there! I'm Pablo Mesny 👋
+Front End Developer
 
-<!--
-**pablomesny/pablomesny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Pablo_Mesny_Banner](https://user-images.githubusercontent.com/110203116/217897814-682226a5-faa6-4287-b222-364475f3b1be.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####Core Qualifications:
+- JavaScript
+- HTML, CSS, SASS
+- React.js
+- Redux
+- React Native
+
+🔭 I'm currently working on personal proyects and as a freelancer. I mainly focus on applications that make people's job easier.
+😄 I'm open for a frontend developer position.
+📫 You can reach me on LinkedIn: https://www.linkedin.com/in/pablomesny/
