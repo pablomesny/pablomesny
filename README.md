@@ -4,7 +4,7 @@ Front End Developer
 ![Pablo_Mesny_Banner](https://user-images.githubusercontent.com/110203116/217897814-682226a5-faa6-4287-b222-364475f3b1be.png)
 
 
-####Core Qualifications:
+#### Core Qualifications:
 - JavaScript
 - HTML, CSS, SASS
 - React.js
