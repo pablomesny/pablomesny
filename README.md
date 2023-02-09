@@ -11,6 +11,8 @@ Front End Developer
 - Redux
 - React Native
 
+
+
 🔭 I'm currently working on personal proyects and as a freelancer. I mainly focus on applications that make people's job easier.
 
 😄 I'm open for a frontend developer position.
