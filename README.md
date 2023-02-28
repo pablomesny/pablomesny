@@ -1,7 +1,7 @@
 ## Hi there! I'm Pablo Mesny 👋
 FullStack Developer
 
-![Pablo_Mesny](https://user-images.githubusercontent.com/110203116/217905825-39e610f1-fed2-4359-b7c6-3ee906e056df.png)
+![Pablo_Mesny](https://user-images.githubusercontent.com/110203116/221722733-cfa67226-2561-4272-9486-100110eb61b0.png)
 
 
 #### Core Qualifications:
