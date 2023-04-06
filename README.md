@@ -11,7 +11,9 @@ FullStack Developer
 - Redux
 - React Native
 - NodeJS
+- Express
 - MongoDB
+- PostgreSQL
 
 
 
