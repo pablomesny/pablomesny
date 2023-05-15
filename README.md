@@ -6,6 +6,7 @@ FullStack Developer
 
 #### Core Qualifications:
 - JavaScript
+- TypeScript
 - HTML, CSS, SASS
 - React.js
 - Redux
