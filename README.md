@@ -18,8 +18,8 @@ FullStack Developer
 
 
 
-🔭 I'm currently working on personal proyects and as a freelancer. I mainly focus on applications that make people's job easier.
+🔭 I'm currently working at Experion Solutions.
 
-😄 I'm open for a fullstack developer position.
+😄 I'm open for a fullstack/front end developer position.
 
 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/pablomesny/
