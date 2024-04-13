@@ -18,8 +18,8 @@ FullStack Developer
 
 
 
-🔭 I'm currently working at Experion Solutions.
+🔭 I'm currently working at Serfe.
 
-😄 I'm open for a fullstack/front end developer position.
+😄 I'm open for a FullStack/FrontEnd developer position.
 
 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/pablomesny/
